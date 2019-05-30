@@ -1,0 +1,14 @@
+server:
+  port: 8080
+dog:
+  dogName: 小白
+  age: 2
+#logging:
+#  pattern:
+#    console: "%d - %msg%n"
+#  path: /var/log/tomcat
+#  file: /var/log/tomcat/sell.log
+#  level:
+#    info
+    # 也可配置到类
+    # com.cdream.springstudy.ChangeName: info
